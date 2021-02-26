@@ -899,8 +899,8 @@ margin-left: 5px;
   }
   .excerpt__content{
     width: 90%;
-    padding: 37px 0 135px 0;
-    background-size: 87%;
+    padding: 37px 0 133px 0;
+    background-size: 280px;
     margin: 0;
   }
   .excerpt__title{
@@ -917,7 +917,7 @@ margin-left: 5px;
   }
 .stories__title{
   font: 500 20px/19px gotham_proregular,arial,helvetica,sans-serif;
-  padding: 5px 0 0 0;
+  padding: 10px 0 0 0;
   margin-bottom: 30px;
 }
 .stories__content1{
@@ -931,12 +931,12 @@ margin-left: 5px;
 }
 .stories__content_title{
   font: 500 20px/19px gotham_proregular,arial,helvetica,sans-serif;
-  margin: 177px 0 12px 0;
+  margin: 177px 0 10px 0;
 }
 .stories__content_description{
   font: 500 14px/17px gotham_proregular,arial,helvetica,sans-serif;
   width: 279px;
-  margin-bottom: 30px;
+  margin-bottom: 28px;
 }
 .stories>.stories__main-content>.stories__content1>.stories__content_description{
   padding-right:10px;
@@ -1065,11 +1065,11 @@ grid-row: 3;
   font: 500 15px/14px gotham_proregular,arial,helvetica,sans-serif;
   word-spacing:0px;
   margin-top: 0;
-  margin-bottom: 30px;
+  margin-bottom: 33px;
 }
 .footer__block_button{
   font:bold 12px/11px gotham_proregular,arial,helvetica,sans-serif;
-  padding: 10px 50px;
+  padding: 10px 48px;
 }
 .footer__block_socials{
   margin: 118px 20px 0 17px;
@@ -1112,26 +1112,26 @@ grid-row: 3;
     padding-left: 0;
   }
   .excerpt__title{
-    padding: 0px 0 0 10px;
+    padding: 3px 0 0 8px;
     width: 79%;
   }
   .excerpt__description{
     margin-left: 0px;
   }
   .excerpt__content{
-    background-size: 100%;
+    background-size: 280px;
   }
   .stories__content_title{
     margin: 180px 0 5px 0;
   }
   .stories__title{
-    margin: 20px 0 28px 0;
+    margin: 20px 0 25px 0;
   }
   .stories__content_description{
     margin-bottom: 28px;
   }
   .stories__content1{
-    margin-left: 23px;
+    margin-left: 20px;
   }
 .gallery__title{
   padding: 90px 0 0 5px;
@@ -1140,7 +1140,9 @@ grid-row: 3;
   width: 280px;
   padding-left: 20px;
 }
-
+.main-content{
+  margin-bottom: 80px;
+}
 .footer__copy{
   padding-left:0px;
 }
